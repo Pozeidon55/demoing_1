@@ -1,0 +1,2 @@
+# Testing sync using pull between remote and local 
+Print("PULL")
